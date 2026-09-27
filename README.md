@@ -221,7 +221,7 @@ http://localhost:8501
 
 ## Hosted Demo
 
-Hosted application URL: `TO_BE_ADDED`
+Hosted application URL: `https://insurance-claims-sop-agent.streamlit.app/`
 
 ## Demo Integrations
 
