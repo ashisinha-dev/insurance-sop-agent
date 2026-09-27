@@ -4,6 +4,11 @@ A conversational insurance claims support application that combines a fixed Stan
 
 The agent follows a controlled insurance workflow while still allowing users to speak naturally, provide information across multiple messages, ask follow-up questions, and request human support.
 
+Hosted Demo: https://insurance-claims-sop-agent.streamlit.app/
+
+GitHub Repository: https://github.com/ashisinha-dev/insurance-sop-agent/
+
+
 ## Workflow
 
 The application follows four main phases:
